@@ -6,6 +6,11 @@ public class Functions {
 
 		greets("Rafael");
 	}
+
+	/**
+	* circleArea: Calcula el area de un circulo
+	* @param r radius
+	*/
 	public static double circleArea(double r){
 		return Math.PI * Math.pow(r, 2);
 	}
