@@ -47,3 +47,17 @@ Clases
 - Divide el programana en diferentes partes o modulos
 
 - Seprarar las clases en archivos
+
+## Constructor
+
+- Crea nuevas instancias de una clase
+
+- Tiene el mismo nombre que la clase que inicializa
+
+- Usa la palabra reservada ```new``` para invocarlo
+
+- Usa cero o mas argumentos contenidos dentro de los parentesis que siguen al nombre
+
+- **No regresan un valor**
+
+
