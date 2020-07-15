@@ -15,7 +15,6 @@ public class Arrays{
 			System.out.println(days[i]);
 		}
 
-		System.out.println("Ciudades");
 		String[][] cities = new String[4][2];
 		cities[0][0] = "Colombia";
 		cities[0][1] = "Bogota";

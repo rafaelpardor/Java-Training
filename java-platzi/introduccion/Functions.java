@@ -1,11 +1,11 @@
 public class Functions {
-	public static void main(String[] args) {
-		double radius1 = 10;
-		double area1 = circleArea(radius1);
-		System.out.println(area1);
+  public static void main(String[] args) {
+    double radius1 = 10;
+    double area1 = circleArea(radius1);
+    System.out.println(area1);
 
-		greets("Rafael");
-	}
+    greets("Rafael");
+  }
 
 	/**
 	* circleArea: Calcula el area de un circulo
